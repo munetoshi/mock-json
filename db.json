@@ -1,0 +1,11 @@
+{
+  "login": [
+    {
+      "id": 0,
+      "mail": "hoge@example.com",
+      "password": "hoge",
+      "token": "sometoken"
+    }
+  ]
+}
+
